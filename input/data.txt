@@ -1,0 +1,12 @@
+﻿alpha;omega;100000;N/A;
+alpha;beta;10;4;
+beta;gamma;33;21;   
+alpha;gamma;23;2;
+gamma;delta;2;2;
+delta;lambda;2;1;
+lambda;beta;1000;1000;
+beta;omega;1000;1000;
+lambda;beta;1;1;
+gamma;omega;111;111;
+delta;omega;1;1;
+lambda;omega;100;100;
